@@ -1,0 +1,5 @@
+.vscode
+days/input.txt
+/utils/*
+venv
+.env
